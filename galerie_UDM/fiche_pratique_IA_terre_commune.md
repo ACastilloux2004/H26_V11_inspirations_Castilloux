@@ -40,4 +40,8 @@ J’ai moi-même tenté l’expérience. Au début, mes lignes vibraient sans ce
 
 >photo prise par Alicia Castilloux, 30 janvier 2026
 
-Pour finir cette visite, voici un croquis 
+Pour finir cette visite, voici un croquis de mon regard sur l'exposition pour capturer le moment présent de ce qui m'a éblouit de l'oeuvre.
+
+![croquis.jpg](media/croquis.jpg) 
+
+>photo prise par Alicia Castilloux, 30 janvier 2026
