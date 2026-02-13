@@ -12,7 +12,7 @@ Dès les premières minutes en franchissant les portes de la galerie de l’Univ
 
 L'affice de l'exposition de la pratique de l'IA, photo prise par Alicia Castilloux, 30 janvier 2026
 
-## L'oeuvre attachant
+## L'oeuvre attachante
 
 Puis, nous sommes accueillis au cœur de cette exploration de la première exposition temporaire de la galerie, l'oeuvre de Marion Schneider, TERRE COMMUNE, 2025, une création assez perplexe et curieuse à ne pas passez devant et qui m'a piquer ma curiositée. 
 
