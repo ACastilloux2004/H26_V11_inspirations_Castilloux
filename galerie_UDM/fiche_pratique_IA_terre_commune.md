@@ -37,3 +37,7 @@ Sur l’écran apparaissent quatre lignes colorées qui traduisent notre état m
 J’ai moi-même tenté l’expérience. Au début, mes lignes vibraient sans cesse. Puis, en me concentrant sur ma respiration et ma tête, j’ai vu les courbes se stabiliser progressivement en ligne droite.  Sur la photo que j’ai prise pendant l’installation, on distingue d’ailleurs ces lignes colorées tendues et presque parfaitement droites, preuve d’un instant de contrôle mais que même en prenant une photo cela est difficile. 
 
 ![parcour.jpg](media/parcour.jpg) 
+
+>photo prise par Alicia Castilloux, 30 janvier 2026
+
+Pour finir cette visite, voici un croquis 
