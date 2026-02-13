@@ -2,6 +2,8 @@
 
 ## visite des oeuvres
 
-![vue_oeuvre_et_dispositif](Médias/vue_oeuvre_et_dispositif.jpg)
+![moi_exposition.jpg
+](Médias/moi_exposition.jpg
+) 
 
 Une oeuvre de Marion Schneider, son but principal est de générer
