@@ -12,4 +12,5 @@ Dès les premières minutes en franchissant les portes de la galerie de l’Univ
 
 Puis, au cœur de cette exploration : l’exposition de Marion Schneider, une création assez perplexe et curieuse à ne pas passez devant. 
 
-![vue_oeuvre_dispositif.jpg](media/vue_oeuvre_dispositif.jpg ) 
+![vue_oeuvre_dispositif.jpg](media/vue_oeuvre_dispositif.jpg )  ![composant.jpg](media/composant.jpg )
+
