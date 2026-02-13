@@ -8,7 +8,7 @@
 
 Dès les premières minutes en franchissant les portes de la galerie de l’Université de Montréal, dédiée du 28 novembre 2025 au 26 février 2026 à la pratique de l’intelligence artificielle, quand nous rentrons nous voyons l'affiche d'exposition, nous proposant un espace où l’art et la science se réunissent pour réveiller ce monde endormi et nous donner une nouvelle perspective de cette création.
 
-![affiche_exposition.png](affiche_exposition.png) 
+![affiche_exposition.png](media/affiche_exposition.png) 
 
 Puis, au cœur de cette exploration : l’exposition de Marion Schneider, une création assez perplexe et curieuse à ne pas passez devant. 
 
