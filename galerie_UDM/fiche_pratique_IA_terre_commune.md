@@ -32,6 +32,8 @@ Au regard de l’exposition, c’est la présence de l’écran avec des lignes 
 
 >Le banc transparant interactif,un des composants de l'exposition, photo prise par Alicia Castilloux, 30 janvier 2026
 
+## Ma participation
+
 De plus, l'œuvre devient  marquante lorsqu’on la visite à l’intérieur d’un édifice et c’est le cas pour tous les œuvres qui étaient présents à ce 30 janvier 2026, mais elle est plus intéressante quand nous pouvons interagir avec l’œuvre comme TERRE COMMUNE. L’interaction fonctionne quand le ou la visiteur·teuse doit s’asseoir sur le siège transparent, enfile le casque et regarde soit la projection devant soi ou soit l’écran coloré. À ce moment, ce n’est plus seulement une œuvre à observer, c’est une œuvre qui lit en nous. 
 
 Sur l’écran apparaissent quatre lignes colorées qui traduisent notre état mental. Si l’on est calme, concentré·e, en contrôle, les lignes deviennent droites et stables. Mais quand notre esprit s’agite, elles se mettent à gigoter dans tous les sens. Donc, voir son propre calme ou son stress, elle se réalise en temps réel et ceci est une expérience fascinante à essayer et à découvrir. L’installation crée un dialogue direct entre notre cerveau, la machine et l’IA.
