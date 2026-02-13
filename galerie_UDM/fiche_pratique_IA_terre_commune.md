@@ -1,6 +1,6 @@
-# La Pratique de l'IA la resource de demain
+# La galerie UDM, l'intelligence IA mise à l'épreuve de l'art
 
-## une oeuvre intéressante : Terre commune
+## visite des oeuvres
 
 ![vue_oeuvre_et_dispositif](Médias/vue_oeuvre_et_dispositif.jpg)
 
