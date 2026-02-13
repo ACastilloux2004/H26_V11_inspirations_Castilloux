@@ -12,13 +12,13 @@ Dès les premières minutes en franchissant les portes de la galerie de l’Univ
 
 >photo prise par Alicia Castilloux, 30 janvier 2026
 
-Puis, nous sommes accueillis au cœur de cette exploration de la première exposition de la galerie, l'oeuvre de Marion Schneider, TERRE COMMUNE, 2025, une création assez perplexe et curieuse à ne pas passez devant et qui m'a piquer ma curiositée. 
+Puis, nous sommes accueillis au cœur de cette exploration de la première exposition temporaire de la galerie, l'oeuvre de Marion Schneider, TERRE COMMUNE, 2025, une création assez perplexe et curieuse à ne pas passez devant et qui m'a piquer ma curiositée. 
 
 ![vue_oeuvre_dispositif.jpg](media/vue_oeuvre_dispositif.jpg )  ![cartel.jpg](media/cartel.jpg)
 
 >photo prise par Alicia Castilloux, 30 janvier 2026             >photo prise par Alicia Castilloux, 30 janvier 2026
 
- Sur la photo que j’ai prise, l’œuvre de Marion Schneider qui est à droite, occupe presque tout le mur de la galerie  avec une projection grandiose. Équipé d’un projecteur de la marque, Sony, une image étrange y est projetée. Composée de milliers de points et de nuances blanc, vert et noir, elle évoque les sols forestiers. Elle semble détendre, toujours en mouvement comme une transformation constante d’une dance sans fin.  
+ Sur la photo que j’ai prise, l’œuvre de Marion Schneider qui est à droite a une installation contemplative et interactive. Elle occupe presque tout le mur de la galerie avec une projection grandiose. Équipé d’un projecteur de la marque, Sony, une image étrange y est projetée. Composée de milliers de points et de nuances blanc, vert et noir, elle évoque les sols forestiers. Elle semble détendre, toujours en mouvement comme une transformation constante d’une dance sans fin.  
 
 ![composant.jpg](media/composant.jpg )
 
