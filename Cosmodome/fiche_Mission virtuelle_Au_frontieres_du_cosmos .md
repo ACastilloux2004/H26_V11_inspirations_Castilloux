@@ -18,7 +18,7 @@ Cette exposition permanente et intérieure donne la chance aux visiteurs de visi
 
  ![depart_exposition.jpg](media/depart_exposition.jpg ) 
  
-> La vue d'ensemble sur le début de l'activité Mission virtuelle, photo prise par Alicia Castilloux, 4 mars 2026
+> La vue d'ensemble sur le début de l'activité Mission virtuelle, photo prise par Alicia Castilloux, 4 mars 2026 ( il n'y a pas de cartel)
 
 Ce dispositif multimédia a été fait par l’équipe scientifique du Cosmodôme, inspirée des recherches et missions spatiales menées par des agences spatiales comme la NASA et l’Agence spatiale canadienne. Le Cosmodôme a ouvert ses portes en 1994, mais les Missions virtuelles ont été développées officiellement en 2012.
 
