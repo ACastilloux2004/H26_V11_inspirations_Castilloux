@@ -28,6 +28,10 @@ La mise en espace est incroyable, car chaque salle est différente, mais elles s
 
  ![couloir.jpg](media/couloir.jpg ) 
 
+  ![ecran_activite.jpg](media/ecran_activite.jpg ) 
+
+ ![bracelet.jpg](media/bracelet.jpg ) 
+
 De plus, les éléments de mise en exposition jouent également un rôle important dans cette visite. L’éclairage qui fait rêver les enfants, les projections d’images spatiales et les interfaces intéractifs créent une ambiance sombre qui donne l’impression d’être seul dans l’espace. Sur une photo que j’ai prise durant l’activité, nous pouvons voir les différents jeux de lumière utilisés. On peut aussi observer les grands écrans  installés pour attirer plus facilement l’attention des joueurs, surtout les plus jeunes.
 
  ![ecran_equipe.jpg](media/ecran_equipe.jpg ) 
