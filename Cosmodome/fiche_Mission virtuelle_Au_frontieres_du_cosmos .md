@@ -30,4 +30,7 @@ De plus, les éléments de mise en exposition jouent également un rôle importa
 
  Pour ma part, cette expérience a été amusante, car  j’ai participé à la mission avec mon homme. Le fait de devoir résoudre des défis ensemble dans différentes salles avec un temps limité, tout en apprenant d'avantage sur cette planète rouge, j'ai trouvé le concept original et intéressante, car cela fait changement de simplement de parler d'un sujet et de rester sur place à écouter des explications.
 
+
+ ![essaie.jpg](media/essaie.jpg ) 
+
 Si je devais réfléchir à un changement dans cette installation, je n'en trouverait pas. L’activité est déjà bien conçue et elle réussit à combiner apprentissage scientifique et divertissement dans un même projet. Cette mission virtuelle donne une expérience originale qui permet de mieux comprendre les défis de l’exploration spatiale et les recherches que font les scientifiques, ils donnent une belle image à vouloir montrer à nos enfants qui seront peut-être nos futures astronautes.
