@@ -18,9 +18,15 @@ Ce dispositif multimédia a été fait par l’équipe scientifique du Cosmodôm
 
 L’installation est une simulation interactive et  immersive, où les visiteurs deviennent les membres d’un équipage spatial. Ils doivent préparer et  réaliser une mission vers Mars. L'exposition est divisé en six activités où les participants vont jouer tous les rôles cruciales d'un astronaute par exemple :  ingénieur, pilote ou spécialiste des communications. Aussi, en équipe de deux, nous allons devoir collaborer avec notre coéquipier à  analyser des données, résoudre des problèmes techniques et réussir les différentes étapes de la mission pour visite réussite sur la planète rouge.
 
+
+
 La mise en espace est incroyable, car chaque salle est différente, mais elles sont toutes organisées de manière à reproduire l’ambiance d’un centre de contrôle spatial. Les stations de travail sont souvent disposées face à plusieurs écrans et consoles lumineuses sur les murs ou devant nous, comme dans les salles trois, quatre et cinq. Dans d’autres salles, on nous informe davantage sur la planète Mars et sur ce qu’il faut savoir à son sujet, comme dans les salles un, deux et six. Pour faire passer les visiteurs d’une section de la mission à une autre, les artisites ont créé un couloir au style futuriste, composé de formes géométriques blanches et jaunes qui rappellent l’intérieur d’un vaisseau spatial. Pour faire ce projet, ils ont utilisé beaucoup de composantes multimédias pour faire ce côté réaliste comme des ordinateurs interactifs, des projections visuelles, des effets sonores et un bracelet qui était relié à un bouton vert interactif.
 
+ ![porte.jpg](media/porte.jpg ) 
+
 De plus, les éléments de mise en exposition jouent également un rôle important dans cette visite. L’éclairage qui fait rêver les enfants, les projections d’images spatiales et les interfaces intéractifs créent une ambiance sombre qui donne l’impression d’être seul dans l’espace. Sur une photo que j’ai prise durant l’activité, nous pouvons voir les différents jeux de lumière utilisés. On peut aussi observer les grands écrans  installés pour attirer plus facilement l’attention des joueurs, surtout les plus jeunes.
+
+ ![ecran_equipe.jpg](media/ecran_equipe.jpg ) 
 
  Tout ce mélange, renforce l’impression d’être dans une véritable mission spatiale importante.
 
