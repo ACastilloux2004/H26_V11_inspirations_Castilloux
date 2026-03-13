@@ -32,7 +32,7 @@ De plus, les éléments de mise en exposition jouent également un rôle importa
 
  ![ecran_equipe.jpg](media/ecran_equipe.jpg ) 
 
- 
+ ![derniere_salle.jpg](media/derniere_salle.jpg )  
 
  Tout ce mélange, renforce l’impression d’être dans une véritable mission spatiale importante.
 
