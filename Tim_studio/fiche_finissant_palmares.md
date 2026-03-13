@@ -1,4 +1,4 @@
-## Mon ordre de préférence
+# Mon ordre de préférence
 
 1- Terminal
 
@@ -12,4 +12,11 @@
 
 6- Arbre en face
 
-## Les créateurs-trices
+# Les créateurs-trices
+
+## Terminal
+- Émeryk Bélisle
+
+- Elie Daher
+
+- Ting Yung Lu Terry
