@@ -12,7 +12,7 @@ Ce 4 mars 2026, au Cosmodôme de laval,ce centre scientifique dédié à tous pu
 
 ![croquis_affiche.jpg](media/croquis_affiche.jpg )
 
-Cette exposition permanente et intérieure donne la chance aux les visiteurs de visiter l’univers grâce à des installations interactives et informatiques. Elle propose de vivre une simulation d’exploration vers Mars, la célèbre planète rouge. 
+Cette exposition permanente et intérieure donne la chance aux visiteurs de visiter l’univers grâce à des installations interactives et informatiques. Elle propose de vivre une simulation d’exploration vers Mars, la célèbre planète rouge. 
 
  ![depart_exposition.jpg](media/depart_exposition.jpg ) 
  
