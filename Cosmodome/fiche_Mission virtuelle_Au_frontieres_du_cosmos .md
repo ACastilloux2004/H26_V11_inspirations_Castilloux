@@ -26,7 +26,7 @@ De plus, les éléments de mise en exposition jouent également un rôle importa
 
  ## Mon parcours
 
- ![
+ ![utilisation.jpg](media/utilisation.jpg ) 
 
  Pour ma part, cette expérience a été amusante, car  j’ai participé à la mission avec mon homme. Le fait de devoir résoudre des défis ensemble dans différentes salles avec un temps limité, tout en apprenant d'avantage sur cette planète rouge, j'ai trouvé le concept original et intéressante, car cela fait changement de simplement de parler d'un sujet et de rester sur place à écouter des explications.
 
