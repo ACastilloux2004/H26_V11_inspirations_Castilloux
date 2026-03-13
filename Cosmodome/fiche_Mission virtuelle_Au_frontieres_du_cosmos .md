@@ -2,7 +2,7 @@
 
 ## La visite 
 
-![moi_exposition.jpg](media/moi_exposition.jpg ) 
+
 
 > Moi ( Alicia Castilloux) devant le Cosmodôme de laval , photo prise Alexandre Trudel, 4 mars 2026
 
