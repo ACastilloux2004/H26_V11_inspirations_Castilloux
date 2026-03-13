@@ -68,7 +68,7 @@ De plus, les éléments de mise en exposition jouent également un rôle importa
 
  ![essaie.jpg](media/essaie.jpg ) 
 
- > Notre intéraction sur le défi de la quatrième salle, photo prise par Alicia Castilloux, 4 mars 2026
+ > Notre interaction sur le défi à la quatrième salle, photo prise par Alicia Castilloux, 4 mars 2026
 
 Si je devais réfléchir à un changement dans cette installation, je n'en trouverait pas. L’activité est déjà bien conçue et elle réussit à combiner l'apprentissage scientifique et divertissement dans un même projet. La Mission virtuelle donne une expérience originale qui permet de mieux comprendre les défis de l’exploration spatiale et les recherches que font les scientifiques, ils donnent une belle image à vouloir montrer à nos enfants qui seront peut-être nos futures astronautes.
 
