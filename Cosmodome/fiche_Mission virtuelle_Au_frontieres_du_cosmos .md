@@ -12,7 +12,7 @@ Ce 4 mars 2026, au Cosmodôme de laval,ce centre scientifique dédié à tous pu
 
 ![croquis_affiche.jpg](media/croquis_affiche.jpg )
 
-> Voici l'affiche de la mission sur le site internet : https://cosmodome.org/activites-familiale/missions-virtuelles/ , faite par Alicia Castilloux, 4 mars 2026
+> Voici l'affiche de l'exposition que j'ai dessiné en croquis sur le site internet : https://cosmodome.org/activites-familiale/missions-virtuelles/ , dessinée par Alicia Castilloux, 4 mars 2026
 
 Cette exposition permanente et intérieure donne la chance aux visiteurs de visiter l’univers grâce à des installations interactives et informatiques. Elle propose de vivre une simulation d’exploration vers Mars, la célèbre planète rouge. 
 
