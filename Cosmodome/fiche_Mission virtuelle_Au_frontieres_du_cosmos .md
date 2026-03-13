@@ -16,6 +16,8 @@ Cette exposition permanente et intérieure donne la chance aux les visiteurs de 
 
 Ce dispositif multimédia a été fait par l’équipe scientifique du Cosmodôme, inspirée des recherches et missions spatiales menées par des agences spatiales comme la NASA et l’Agence spatiale canadienne. Le Cosmodôme a ouvert ses portes en 1994, mais les missions virtuelles ont été développées progressivement jusqu'à son arrivée officiel en 2012.
 
+ ![salle.jpg](media/salle.jpg ) 
+
 L’installation est une simulation interactive et  immersive, où les visiteurs deviennent les membres d’un équipage spatial. Ils doivent préparer et  réaliser une mission vers Mars. L'exposition est divisé en six activités où les participants vont jouer tous les rôles cruciales d'un astronaute par exemple :  ingénieur, pilote ou spécialiste des communications. Aussi, en équipe de deux, nous allons devoir collaborer avec notre coéquipier à  analyser des données, résoudre des problèmes techniques et réussir les différentes étapes de la mission pour visite réussite sur la planète rouge.
 
 
