@@ -26,7 +26,7 @@ Ce dispositif multimédia a été fait par l’équipe scientifique du Cosmodôm
 
 > La deuxième salle présentée pour l'activité, photo prise par Alicia Castilloux, 4 mars 2026
 
-L’installation est une simulation interactive et immersive, où les visiteurs deviennent les membres d’un équipage spatial. Ils doivent préparer et réaliser une mission vers Mars. L'exposition est divisé en six activités où les participants vont jouer tous les rôles cruciales d'un astronaute par exemple:  ingénieur, pilote ou spécialiste des communications. Aussi, en équipe de deux, nous allons devoir collaborer avec notre coéquipier à  analyser des données, résoudre des problèmes techniques et réussir les différentes étapes de la mission pour visite réussite sur la planète rouge.
+L’installation est une simulation interactive et immersive, où les visiteurs deviennent les membres d’un équipage spatial. Ils doivent préparer et réaliser une mission vers Mars. L'exposition est divisé en six activités où les participants vont jouer tous les rôles cruciales d'un astronaute par exemple:  ingénieur, pilote ou spécialiste des communications. Aussi, en équipe de deux, nous allons devoir collaborer avec notre coéquipier à  analyser des données, résoudre des problèmes techniques et réussir les différentes étapes de la mission pour visite la planète rouge.
 
  ![table.jpg](media/table.jpg ) 
 
