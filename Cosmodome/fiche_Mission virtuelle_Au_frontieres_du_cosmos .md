@@ -77,3 +77,5 @@ Si je devais réfléchir à un changement dans cette installation, je n'en trouv
 https://cosmodome.org/activites-familiale/missions-virtuelles/
 
 https://mnj.quebec/events/missions-virtuelles/
+
+https://gsmproject.com/fr/projets/etude-de-cas/le-cosmodome/
