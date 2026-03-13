@@ -87,3 +87,17 @@
 - Matis Ghariani
 
 - Rafael Angon Dubé
+
+## Référence 
+
+https://pythons-5.github.io/Terminal/#/
+
+https://o-i-g-n-o-n.github.io/Mission-decollage/#/
+
+https://les-chimistes.github.io/symbiose/#/
+
+https://deux-intelligence.github.io/deux-neurones/#/
+
+https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
+
+https://mammouths.github.io/projet/#/
