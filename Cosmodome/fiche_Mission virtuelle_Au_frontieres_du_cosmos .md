@@ -4,9 +4,9 @@
 
 ![moi_exposition.jpg](media/moi_exposition.jpg ) 
 
->Moi ( Alicia Castilloux) devant le Cosmodôme de laval , photo prise Alexandre Trudel, 4 mars 2026
+> Moi ( Alicia Castilloux) devant le Cosmodôme de laval , photo prise Alexandre Trudel, 4 mars 2026
 
-Ce 4 mars 2026, au Cosmodôme de laval,ce centre scientifique dédié à tous public et à la découverte de l’espace, se trouve l’activité Mission virtuelle : La planète rouge, une expérience futuriste  ou  ludo-éducateur transporte les visiteurs dans une visite informatique à un scénario d’exploration vers Mars.  
+Ce 4 mars 2026, au Cosmodôme de laval,ce centre scientifique dédié à tous public et à la découverte de l’espace, se trouve l’activité Mission virtuelle : La planète rouge, une expérience futuriste ou ludo-éducateur transporte les visiteurs dans une visite informatique à un scénario d’exploration vers Mars.  
 
 ## La planète rouge 
 
@@ -32,7 +32,7 @@ L’installation est une simulation interactive et immersive, où les visiteurs 
 
  > La table intéractive spatiale de la cinquième salle, photo prise par Alicia Castilloux, 4 mars 2026
 
-La mise en espace est incroyable, car chaque salle est différente, mais elles sont toutes organisées de manière à reproduire l’ambiance d’un centre de contrôle spatial. Les stations de travail sont souvent disposées face à plusieurs écrans et consoles lumineuses sur les murs ou devant nous, comme dans les salles trois, quatre et cinq. Dans d’autres salles, on nous informe davantage sur la planète Mars et sur ce qu’il faut savoir à son sujet, comme dans les salles un, deux et six. Pour faire passer les visiteurs d’une section de la mission à une autre, les artistes ont créé un couloir au style futuriste, composé de formes géométriques blanches et jaunes qui rappellent l’intérieur d’un vaisseau spatial. Pour faire ce projet, ils ont utilisé beaucoup de composantes multimédias pour faire ce côté réaliste comme des ordinateurs interactifs, des projections visuelles, des effets sonores et un bracelet qui était relié à un bouton vert interactif.
+La mise en espace est incroyable, car chaque salle est différente, mais elles sont toutes organisées de manière à reproduire l’ambiance d’un centre de contrôle spatial. Les stations de travail sont souvent disposées face à plusieurs écrans et consoles lumineuses sur les murs ou devant nous, comme dans les salles trois, quatre et cinq. Dans d’autres salles, on nous informe d'avantage sur la planète Mars et sur ce qu’il faut savoir à son sujet, comme dans les salles un, deux et six. Pour faire passer les visiteurs d’une section de la mission à une autre, les artistes ont créé un couloir au style futuriste, composé de formes géométriques blanches et jaunes qui rappellent l’intérieur d’un vaisseau spatial. Pour faire ce projet, ils ont utilisé beaucoup de composantes multimédias pour faire ce côté réaliste comme des ordinateurs interactifs, des projections visuelles, des effets sonores et un bracelet qui était relié à un bouton vert interactif.
 
  ![couloir.jpg](media/couloir.jpg ) 
 
@@ -40,7 +40,7 @@ La mise en espace est incroyable, car chaque salle est différente, mais elles s
 
  ![ecran_activite.jpg](media/ecran_activite.jpg ) 
 
- > l'écran informatique de la quatrième salle, photo prise par Alicia Castilloux, 4 mars 2026
+ > L'écran informatique de la quatrième salle, photo prise par Alicia Castilloux, 4 mars 2026
 
  ![bracelet.jpg](media/bracelet.jpg ) 
 
@@ -70,7 +70,7 @@ De plus, les éléments de mise en exposition jouent également un rôle importa
 
  > Notre intéraction sur le défi de la quatrième salle, photo prise par Alicia Castilloux, 4 mars 2026
 
-Si je devais réfléchir à un changement dans cette installation, je n'en trouverait pas. L’activité est déjà bien conçue et elle réussit à combiner apprentissage scientifique et divertissement dans un même projet. La Mission virtuelle donne une expérience originale qui permet de mieux comprendre les défis de l’exploration spatiale et les recherches que font les scientifiques, ils donnent une belle image à vouloir montrer à nos enfants qui seront peut-être nos futures astronautes.
+Si je devais réfléchir à un changement dans cette installation, je n'en trouverait pas. L’activité est déjà bien conçue et elle réussit à combiner l'apprentissage scientifique et divertissement dans un même projet. La Mission virtuelle donne une expérience originale qui permet de mieux comprendre les défis de l’exploration spatiale et les recherches que font les scientifiques, ils donnent une belle image à vouloir montrer à nos enfants qui seront peut-être nos futures astronautes.
 
 ## Les références
 
