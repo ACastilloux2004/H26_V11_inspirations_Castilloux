@@ -1,1 +1,17 @@
+# Expositions en Tim des finisssants-tes
 
+![moi_exposition.jpg](media/moi_exposition.jpg )
+
+> Moi ( Alicia Castilloux) devant le Grand Studio , photo prise par Ammar Mrini, 17 mars 2026
+
+## La visite 
+
+Le 24 février et le 17 mars 2026 avaient lieux les projets finaux de nos cher finissants. Dans ces six projets, l'un d'eux avait attirer mon attention plus que les autres. Le TERMINAL, faite par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
+
+# Terminal
+
+![vue_ensemble.jpg](media/vue_ensemble.jpg )
+
+> vu d'ensemble du projet Terminal , photo Alicia Castilloux , 17 mars 2026
+
+Ce jeu interactif à six joueurs se joue avec son téléphone comme manette téléguider
