@@ -11,7 +11,7 @@ Le 24 février et le 17 mars 2026 ont eu lieu les présentations des projets fin
 
 ![vue_ensemble.jpg](media/vue_ensemble.jpg )
 
-> vu d'ensemble du projet Terminal , photo Alicia Castilloux , 17 mars 2026
+> vu d'ensemble du projet Terminal , photo prise par  Alicia Castilloux , 17 mars 2026
 
 C'est l'histoire d'un ancien système informatique qui a été piraté, corrompant toutes les données d’un réseau . Des joueurs de un à six se connectent pour restaurer ces données en traversant différents secteurs. Chaque niveau représente une zone à réparer, avec des pièges et des dangers laissés par le pirate. 
 
@@ -23,7 +23,18 @@ Le projet est cette installation interactive jusqu’à six joueurs. Chacun opé
 
 ![terminal.jpg](media/terminal.jpg )
 
-De plus, Le téléphone sert de manette, avec la couleur et d’un nom de joueur, et un bouton « Prêt ». Quand tout le monde est prêt, une courte intro et un tutoriel expliquent le but, puis le jeu commence. Puis, un joueur peut quitter à tout moment en fermant son téléphone. 
+> vu des joueurs qui joue à Terminal , photo prise par Alicia Castilloux , 17 mars 2026
+
+Alors, pour commencer le test, il faut scanner le code Qr qui proche du grand écran à droite. Le téléphone sert de manette, avec la couleur et d’un nom de joueur, et un bouton « Prêt ». Quand tout le monde est prêt, une courte intro et un tutoriel expliquent le but, puis le jeu commence. Puis, un joueur peut quitter à tout moment en fermant son téléphone. 
+
+![code_qr.jpg](media/code_qr.jpg)
+
+> Le code QR pour participer à Terminal  , photo prise par Alicia Castilloux , 17 mars 2026
+
+![telephone.jpg](media/telephone.jpg )
+
+> Le téléphone devenu la manette pour le jeu , capture d'écran prise par Alicia Castilloux , 17 mars 2026
 
 ## interface
 
+Le jeu est composer d'une immense grand écran pour projetter de ce que les joueurs devront manipuler. Les lumières qui sont plus pour la décor met en valeur les testeurs qui vont essayer le jeu. De plus, pour le conford des joueurs, les développeurs ont rajoutés des coussins de couleurs fluauts pour que les joueurs sont confortablement assis.
