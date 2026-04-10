@@ -38,3 +38,7 @@ Alors, pour commencer le test, il faut scanner le code Qr qui proche du grand é
 ## interface
 
 Le jeu est composer d'une immense grand écran pour projetter de ce que les joueurs devront manipuler. Les lumières qui sont plus pour la décor met en valeur les testeurs qui vont essayer le jeu. De plus, pour le conford des joueurs, les développeurs ont rajoutés des coussins de couleurs fluauts pour que les joueurs sont confortablement assis.
+
+![coussins.jpg](media/coussins.jpg )
+
+> Les coussins du projet , photo prise par Alicia Castilloux , 24 février 2026
