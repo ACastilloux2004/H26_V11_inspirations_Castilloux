@@ -20,11 +20,11 @@ C'est l'histoire d'un ancien système informatique qui a été piraté par un my
 
 > La cartel du Terminal , photo prise par Alicia Castilloux, 17 mars 2026
 
-TERMINAL est un divertissement temporaire et intérieur qui se joue en équipe jusqu'à six joueurs. Chacun d'eux à ce contrôle avec son téléphone pour restaurer un réseau piraté. En se déplaçant, ils laissent une trace qui devient un obstacle pour leurs coéquipiers. Le but est que tout le monde atteigne la fin sans mourir, sinon l’équipe recommence. Plus on avance, plus les niveaux sont difficiles, avec des mécaniques qui demandent de la communication et l’esprit d’équipe. 
+TERMINAL est un divertissement temporaire et intérieur qui se joue en équipe jusqu'à six joueurs. Grâce à un projecteur de la marque EPSON et mise devant un mur blanc, les joueurs peuvent se mettrent devant celui-ci pour commencer l'aventure. Leu jeu est une inspiration du jeu célèbre : Pac man, la ressemblance avec celui ci est le concept avec l'ambiance qui donne des jeux vidéos des années 80, les petits personnages pixellisés colorés et leurs déplacements qui contrairement à Pac man,  laissent des traces de chiffres numériques comme '1' ou '0'  qui devient un obstacle pour leurs coéquipiers. Le but est que tout le monde atteigne la fin sans mourir, sinon l’équipe recommence.
 
-![terminal.jpg](media/terminal.jpg )
+![composants_terminal.jpg](media/composants_terminal.jpg)
 
-> vu des joueurs qui joue à Terminal , photo prise par Alicia Castilloux , 17 mars 2026
+> Le projecteur Epson du projet TERMINAL, photo prise par Alicia Castilloux, 17 mars 2026
 
 Pour débuter l'intéraction, il faut scanner le code Qr qui est proche du grand écran à droite. Le téléphone qui va servire de manette, avec la couleur et d’un nom de joueur, et un bouton « Prêt ». Quand tout le monde est prêt, une courte intro et un tutoriel expliquent le but, puis le jeu commence. Puis, un joueur peut quitter à tout moment en fermant son téléphone. 
 
@@ -46,5 +46,6 @@ L’interface et la mise en espace de l'installation ont été pensées pour ren
 
 ## Expérience
 
-Personnellement, j'ai bien aimer mon expérience avec ce jeu polyvalent. Lors de ma connection avec le code Qr, je me suis assis sur les coussins fluauts et j'ai vu le nom 'ÉCHO' apparaitre sur mon téléphone et sur le grand écran devant moi. Pendant ce temps, je devais attendre tous les joueurs pour que le jeu commence enfin, l'écran devant nous, montrait les autres joueurs avec des noms aléatoires qui en dessous d'eux est écrit : prêt ou pas prêt. Avant le premier niveau débute, j'ai remarquée que les producteurs n'avaient pas expliquer comment le jeu se jouait ou comment utiliser corrrectement notre téléphone, il fallait le découvrir nous même. Au début, mes coéquipiers et moi-même avions eu de la misère à réussir le premier niveau sans se foncer dedans ou foncer dans un mur, qui à un point, avait commencer à fâcher quelques-ceux d'entre nous. Car nous n'avions pas la même couleur indiquer sur notre téléphone et nous avions la même forme chacun. Après quelques minutes passées, nous avions commencer à communiquer sur notre couleur et position en fessant des essaies du niveau pour qu'à la fin, nous devenions les maitres de ce jeu.
+Personnellement, j'ai bien aimer mon expérience avec ce jeu polyvalent. Lors de ma connection avec le code Qr, je me suis assis sur les coussins fluauts et j'ai vu le nom 'ÉCHO' apparaitre sur mon téléphone et sur le grand écran devant moi. Pendant ce temps, je devais attendre tous les joueurs pour que le jeu commence enfin, l'écran devant nous, montrait les autres joueurs avec des noms aléatoires comme Alpha ou Beta, qui en dessous d'eux est écrit : prêt en vert ou pas prêt en rouge. Avant le premier niveau débute, j'ai remarquée que les producteurs n'avaient pas expliquer comment le jeu se jouait ou comment utiliser corrrectement notre téléphone, il fallait le découvrir nous même. Au début, mes coéquipiers et moi-même avions eu de la misère à réussir le premier niveau sans se foncer dedans ou foncer dans un mur, qui à un point, avait commencer à fâcher quelques-ceux d'entre nous. Car nous n'avions pas la même couleur indiquer sur notre téléphone et nous avions la même forme chacun. Après quelques minutes passées, nous avions commencer à communiquer sur notre couleur et position en fessant des essaies du niveau pour qu'à la fin, nous devenions les maitres de ce jeu.
+
 
