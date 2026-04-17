@@ -47,3 +47,7 @@ Personnellement, j'ai bien aimer mon expérience avec ce jeu polyvalent. Lors de
 ![telephone.jpg](media/telephone.jpg )
 
 > Le téléphone devenu la manette pour le jeu , capture d'écran prise par Alicia Castilloux , 17 mars 2026
+
+# Les références
+
+https://pythons-5.github.io/Terminal/#/
