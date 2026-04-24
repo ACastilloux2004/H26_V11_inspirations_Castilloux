@@ -6,7 +6,7 @@
 
 ## La visite 
 
-En ce 24 février et 17 mars 2026, ont eu lieu les présentations des projets finaux des finissants en Techniques d’intégration multimédia au Collège Montmorency. Parmi les six équipes et les différents projets présentés, une installation intérieure a particulièrement retenu mon attention : TERMINAL. Ce projet interactif s’est démarqué par son originalité et son aspect captivant. Il a été réalisé par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi. 
+En ce 24 février et 17 mars 2026, ont eu lieu les présentations des projets finaux de 2026, des finissants en Techniques d’intégration multimédia au Collège Montmorency. Parmi les six équipes et les différents projets présentés, une installation intérieure a particulièrement retenu mon attention : TERMINAL. Ce projet interactif s’est démarqué par son originalité et son aspect captivant. Il a été réalisé par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi. 
 
 # Terminal
 
@@ -14,7 +14,7 @@ En ce 24 février et 17 mars 2026, ont eu lieu les présentations des projets fi
 
 > vu d'ensemble du projet Terminal , photo prise par  Alicia Castilloux , 17 mars 2026
 
-TERMINAL propose un univers narratif inspiré du monde informatique. L’histoire repose sur un ancien système qui a été piraté par un célèbre hacker mystérieux, corrompant l’ensemble des données du réseau. Face à cette situation critique, six “sauveurs” doivent se connecter au système afin de restaurer les données perdues. Pour y parvenir, ils doivent traverser différents secteurs du programme, chacun représentant un niveau à réparer. Cependant, le pirate a laissé derrière lui des pièges et des obstacles afin de conserver le contrôle du système, rendant la progression plus difficile et stratégique. 
+TERMINAL propose un univers narratif inspiré du monde informatique. L’histoire repose sur un ancien système qui a été piraté par un célèbre hacker mystérieux, corrompant l’ensemble des données du réseau. Face à cette situation critique, six 'sauveurs' doivent se connecter au système afin de restaurer les données perdues. Pour y parvenir, ils doivent traverser différents secteurs du programme, chacun représentant un niveau à réparer. Cependant, le pirateur a laissé derrière lui des pièges et des obstacles afin de conserver le contrôle du système, rendant la progression plus difficile et stratégique. 
 
 ![cartel_terminal.jpg](media/cartel_terminal.jpg )
 
@@ -34,22 +34,24 @@ Pour débuter l’interaction, les joueurs doivent scanner un code QR situé pr�
 
 ## L'interne et externe
 
-L’interface des éléments de l’installation ont été soigneusement pensées afin de créer une expérience immersive et intéractive. Les finissants ont aménagé l’espace avec des coussins disposés au sol, permettant aux joueurs de s’asseoir confortablement tout en participant activement au jeu. En avant, un grand mur projetant le jeu, captant immédiatement l’attention dû à sa grandeur. L’utilisation des téléphones cellulaires comme manettes est particulièrement fascinant, car elle rend le dispositif accessible sans nécessairement avoir besoin d’équipement spécialisé. De plus, un système d’éclairage met en valeur les joueurs et contribue à créer une ambiance immersive. Le projecteur assure la projection du jeu sur le mur, tandis qu’un haut-parleur amplifie les effets sonores, ajoutant une dimension auditive importante. L’ensemble de ces éléments forme un environnement interactif cohérent où les participants deviennent pleinement impliqués. 
-
+L’interface des éléments de l’installation ont été soigneusement pensées afin de créer une expérience immersive et intéractive. Les finissants ont aménagé l’espace avec des coussins fluauts disposés au sol, permettant aux joueurs de s’asseoir confortablement tout en participant activement au jeu. En avant, un grand mur projetant le jeu, captant immédiatement l’attention dû à sa grandeur. L’utilisation des téléphones cellulaires comme manettes est particulièrement fascinant, car elle rend le dispositif accessible sans nécessairement avoir besoin d’équipement spécialisé. De plus, un système d’éclairage met en valeur les joueurs et contribue à créer une ambiance point de central. Également, le projecteur assure la projection du jeu sur le mur, tandis qu’un haut-parleur amplifie les effets sonores ajoutant une auditive réaliste. 
 ![coussins.jpg](media/coussins.jpg )
 
 > Les coussins du projet , photo prise par Alicia Castilloux , 24 février 2026
 
 ## Expérience
 
-Personnellement, j’ai beaucoup apprécié mon expérience avec ce jeu interactif. Dès ma connexion en scannant le code QR, je me suis installée sur les coussins et j’ai vu apparaître le nom « ÉCHO » sur mon téléphone ainsi que sur l’écran principal. En attendant que tous les joueurs soient prêts, j’ai observé les autres participants, identifiés par des noms comme Alpha ou Beta, accompagnés d’un indicateur « prêt » en vert ou « pas prêt » en rouge. Cependant, avant le début du premier niveau, j’ai remarqué qu’il n’y avait pas beaucoup d’explications sur le fonctionnement du jeu ou l’utilisation des contrôles, ce qui nous a obligés à apprendre par nous-mêmes. 
+Personnellement, j’ai beaucoup apprécié mon expérience avec ce jeu interactif. Dès ma connexion en scannant le code QR, je me suis installée sur les coussins et j’ai vu apparaître le nom « ÉCHO » sur mon téléphone ainsi que sur l’écran principal. En attendant que tous les joueurs soient prêts, j’ai observé les autres participants, identifiés par des noms comme Alpha ou Beta, accompagnés d’un indicateur « prêt » en vert ou « pas prêt » en rouge. Cependant, avant le début du premier niveau, j’ai remarqué qu’il n’y avait pas d’explications sur le fonctionnement du jeu ou l’utilisation des contrôles, ce qui nous a obligés à apprendre par nous-mêmes. 
 
-Au début, mes coéquipiers et moi avons eu de la difficulté à comprendre les mécaniques du jeu. Nous nous foncions souvent dedans ou contre les murs, ce qui a causé quelques frustrations. De plus, comme les personnages avaient une forme similaire, il était parfois difficile de se distinguer uniquement par la couleur. Cependant, après plusieurs essais, nous avons commencé à mieux communiquer, en identifiant nos couleurs et nos positions. Peu à peu, notre coordination s’est améliorée et nous avons réussi à progresser dans les niveaux. À la fin, nous avions l’impression de maîtriser le jeu, ce qui rendait l’expérience encore plus satisfaisante. 
+Au début, mes coéquipiers et moi avons eu de la difficulté à comprendre les mécaniques du jeu. Nous nous foncions souvent dedans ou contre les murs, ce qui a causé quelques frustrations. De plus, comme les personnages avaient une forme presque similaire, il était parfois difficile de se distinguer uniquement par la couleur. Cependant, après plusieurs essais, nous avons commencé à mieux communiquer, en identifiant nos couleurs et nos positions. Peu à peu, notre coordination s’est améliorée et nous avons réussi à progresser dans les niveaux. À la fin, nous avions l’impression d'être le maître du jeu, ce qui rendait l’expérience encore plus satisfaisante. 
 
-En conclusion, TERMINAL est un projet interactif réussi qui combine narration, esthétique rétro et interactivité moderne. Malgré une certaine difficulté au départ, l’expérience devient rapidement engageante grâce à la collaboration entre les joueurs. Ce projet démontre bien le potentiel des installations multimédias à créer des expériences immersives et participatives.
 ![telephone.jpg](media/telephone.jpg )
 
 > Le téléphone devenu la manette pour le jeu , capture d'écran prise par Alicia Castilloux , 17 mars 2026
+
+## Conclusion
+
+Pour le jeu, si je devrais faire des modifications, il serait plus dans les niveaux en tant que tel, avant le premier niveau, j'aurais mis les instructions du jeu, pour facilité l'accessibilité et la flexibilité de la manette. Ensuite, à chaque 10 ème de niveau, j'aurais fait un combat de boss, pour rajouter un peu de nouveauté dans le jeu et de plus en plus que le jeu continurait plus des pièges seront sur le chemin
 
 # Les références
 
