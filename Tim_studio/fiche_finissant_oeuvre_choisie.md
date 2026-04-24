@@ -26,7 +26,7 @@ TERMINAL est un jeu interactif temporaire et intérieur qui se joue en équipe, 
 
 > Le projecteur Epson du projet TERMINAL, photo prise par Alicia Castilloux, 17 mars 2026
 
-Pour débuter l’interaction, les joueurs doivent scanner un code QR situé près de l’écran principal. Leur téléphone devient alors une manette de jeu, affichant une couleur, un nom de joueur ainsi qu’un bouton « prêt ». Une fois que tous les participants sont prêts, une courte introduction accompagnée d’un tutoriel lance la partie. Le jeu permet également à un joueur de quitter à tout moment en fermant simplement son téléphone, ce qui démontre une certaine flexibilité dans l’expérience. 
+Pour débuter l’interaction, les joueurs doivent scanner un code QR situé près de la projection à droite. Leur téléphone devient alors une manette de jeu, affichant une couleur, un nom de joueur ainsi qu’un bouton « prêt ». Une fois que tous les participants sont prêts, une courte introduction accompagnée d’un tutoriel lance la partie. Le jeu permet également à un joueur de quitter à tout moment en fermant simplement son téléphone, ce qui démontre une certaine flexibilité dans l’expérience. 
 
 ![code_qr.jpg](media/code_qr.jpg)
 
@@ -35,6 +35,7 @@ Pour débuter l’interaction, les joueurs doivent scanner un code QR situé pr�
 ## L'interne et externe
 
 L’interface des éléments de l’installation ont été soigneusement pensées afin de créer une expérience immersive et intéractive. Les finissants ont aménagé l’espace avec des coussins fluauts disposés au sol, permettant aux joueurs de s’asseoir confortablement tout en participant activement au jeu. En avant, un grand mur projetant le jeu, captant immédiatement l’attention dû à sa grandeur. L’utilisation des téléphones cellulaires comme manettes est particulièrement fascinant, car elle rend le dispositif accessible sans nécessairement avoir besoin d’équipement spécialisé. De plus, un système d’éclairage met en valeur les joueurs et contribue à créer une ambiance point de central. Également, le projecteur assure la projection du jeu sur le mur, tandis qu’un haut-parleur amplifie les effets sonores ajoutant une auditive réaliste. 
+
 ![coussins.jpg](media/coussins.jpg )
 
 > Les coussins du projet , photo prise par Alicia Castilloux , 24 février 2026
