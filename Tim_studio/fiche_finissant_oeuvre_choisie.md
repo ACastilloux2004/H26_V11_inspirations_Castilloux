@@ -40,7 +40,7 @@ L’interface des éléments de l’installation ont été soigneusement pensée
 
 > Les coussins du projet , photo prise par Alicia Castilloux , 24 février 2026
 
-## Expérience
+## Mon expérience
 
 Personnellement, j’ai beaucoup apprécié mon expérience avec ce jeu interactif. Dès ma connexion en scannant le code QR, je me suis installée sur les coussins et j’ai vu apparaître le nom « ÉCHO » sur mon téléphone ainsi que sur l’écran principal. En attendant que tous les joueurs soient prêts, j’ai observé les autres participants, identifiés par des noms comme Alpha ou Beta, accompagnés d’un indicateur « prêt » en vert ou « pas prêt » en rouge. Cependant, avant le début du premier niveau, j’ai remarqué qu’il n’y avait pas d’explications sur le fonctionnement du jeu ou l’utilisation des contrôles, ce qui nous a obligés à apprendre par nous-mêmes. 
 
@@ -52,7 +52,15 @@ Au début, mes coéquipiers et moi avons eu de la difficulté à comprendre les 
 
 ## Conclusion
 
-Pour le jeu, si je devrais faire des modifications, il serait plus dans les niveaux en tant que tel, avant le premier niveau, j'aurais mis les instructions du jeu, pour facilité l'accessibilité et la flexibilité de la manette. Ensuite, à chaque 10 ème de niveau, j'aurais fait un combat de boss, pour rajouter un peu de nouveauté dans le jeu et de plus en plus que le jeu continurait plus des pièges seront sur le chemin
+Pour le projet, si je devrais faire des modifications, il serait plus dans les niveaux du jeu. Avant le premier niveau, pour mettre l'eau au parfum aux joueurs, j'aurais mis les instructions et les commandes du jeu, pour facilité l'accessibilité et la flexibilité de celui-ci. Ensuite, j'aurais proposée à chaque 10 ème de niveau, un combat de boss qui ressemble à un virus, permettant d'ajouter des éléments qui font du sens à l'histoire du jeu, donc plus les niveaus passent plus les boss virus deviennent plus gros, plus fluauts, plus menaçants et plus dangereux. Ces idées donnent ce schéma de nouveauté que je recherchais pendant mon parcour, cette attente ou ce défi qui permet de donner cette récompense aux joueurs de leur persévérence et de leur patience... 
+
+En général, à l'extérieur du jeu, je trouve que le plan décoratif et chaleureux n'était pas nécessaire en soi, mais n'est pas critiquable, car il est un bonus pour nous, les essayeurs. 
+
+Ce jeu a du potentiel et mérite de l'essayer et de le jouer dans sa globalité pour leur travail dûr et bien développer.
+
+![terminal.jpg](media/terminal.jpg ) 
+
+> le projet avec des essayeurs , photo prise par Alicia Castilloux , 17 mars 2026
 
 # Les références
 
