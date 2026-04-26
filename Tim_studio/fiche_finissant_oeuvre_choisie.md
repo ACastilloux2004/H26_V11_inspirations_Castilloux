@@ -53,7 +53,7 @@ Au début, mes coéquipiers et moi avons eu de la difficulté à comprendre les 
 
 ![telephone.jpg](media/telephone.jpg )
 
-> Le téléphone devenu la manette pour le jeu , capture d'écran prise par Alicia Castilloux , 17 mars 2026
+> Le téléphone devenu la manette pour le jeu , capture d'écran prise par Alicia Castilloux , 24 février 2026
 
 ## Conclusion
 
