@@ -42,14 +42,26 @@ Le dispositif repose sur plusieurs composantes techniques, notamment des écrans
 
 Les éléments de mise en exposition jouent également un rôle essentiel dans l’efficacité du dispositif. L’éclairage est utilisé de manière à mettre en valeur les visiteurs pour l'intéraction de l'exposition, tandis que les panneaux explicatifs offrent un soutien à la compréhension au trois écrans devant nous. Sur certaines photos que j’ai prises, on peut voir les composants utilisés pour capter l'attention, surtout sur les jeunes.
 
+![lumiere_composant.jpg](media/lumiere_composant.jpg )
+
+> les lumières utilisées pour mettre en valeur les visiteurs , photo prise par Alicia Castilloux, 1 avril 2026
+
 ## Mon parcours
 
-![parcour.jpg.jpg](media/parcour.jpg.jpg )
+![parcour.jpg](media/parcour.jpg )
 
 >mon essai sur l'expérience , photo prise par Alicia Castilloux, 1 avril 2026
 
 Pour mon expérience, cette expérience a été particulière. Le fait de pouvoir interagir directement avec les dispositifs m’a permis de mieux comprendre certains phénomènes scientifiques qui, autrement, seraient restés inconnu pour ma part. J’ai apprécié le fait de se voir nous même et les questions en tant que tel pour attirer l'attention au détails, qui rend l’apprentissage mémorable.
 Ce qui m’a le plus plu est la capacité de l’installation à rendre visible ce qui ne l’est pas habituellement. Cela crée un effet de surprise et de découverte qui capte l’intérêt du visiteur du début à la fin. 
+
+![composant_infrarouge.jpg](media/composant_infrarouge.jpg)
+
+>la question à regarder sur l'écran infrarouge , photo prise par Alicia Castilloux, 1 avril 2026
+
+![composant_ultraviolet.jpg](media/composant_ultraviolet.jpg)
+
+>la question à regarder sur l'écran ultraviolet, photo prise par Alicia Castilloux, 1 avril 2026
 
 Si je devais proposer une amélioration, j’ajouteraisdes explications visuelles ou une autre forme d'activitée avec l'exposition, pour plus d'interaction avec les visiteurs.
 
