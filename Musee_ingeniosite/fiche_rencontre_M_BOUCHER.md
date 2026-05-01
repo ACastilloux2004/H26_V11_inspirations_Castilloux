@@ -4,7 +4,7 @@
 
 En ce 24 avril 2026, j’ai assisté à une conférence animée par M. Boucher, technicien au sein du musée de l’Ingéniosité J.-Armand Bombardier de Valcourt. Sa présentation avait pour but de parler de son métier polyvalent, qui touche à plusieurs domaines comme l’audio, la vidéo, l’informatique et l’éclairage. Cette conférence abordait également les différentes expositions ainsi que leurs composantes, parfois énigmatiques à nos yeux d’étudiants. De plus, La conférence a commencé par une brève introduction du conférencier, suivie d’une question générale adressée aux étudiants qui est :  Avez-vous déjà côtoyé des dispositifs multimédias ? Pour ma part, avant cette année, ma réponse aurait été négative.
 
-![cartel.jpg](media/cartel.jpg)
+![cartel.jpeg](media/cartel.jpeg)
 
 >Cartel du Garage Bombardier en 1926, l'inventeur Joseph-Armand Bombardier a commencé.
 
