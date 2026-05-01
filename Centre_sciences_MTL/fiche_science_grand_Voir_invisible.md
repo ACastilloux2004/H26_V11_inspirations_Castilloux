@@ -1,4 +1,4 @@
-# hoolo
+# Centre des sciences sur Voir l'invisible 
 
 Dès les premières minutes en entrant au Centre des sciences de Montréal, lors de ma visite du 1 avril 2026, l’exposition La science en grand capte immédiatement l’attention par son approche immersive et interactive. Contrairement à une exposition traditionnelle, où l’on observe à distance, ici, le visiteur est invité à expérimenter, manipuler et comprendre la science à travers des dispositifs concrets. Parmi les différentes installations proposées, l’une d’entre elles se démarque particulièrement : Voir l’invisible.
 
